@@ -1,0 +1,38 @@
+activity,danger,suggest
+Opening the mail, 1, cba
+Getting restaurant takeout, 2, cba
+Pumping gasoline, 2, cba
+Playing tennis, 2, cab
+Going camping, 2, cba
+Grocery shopping, 3, bca
+Going for a walk with others, 3, abc
+Playing golf, 3, cba
+Staying at a hotel for two nights, 4, cba
+Sitting in a doctor’s waiting room, 4, bac
+Going to a library or museum, 4, bca
+Eating in a restaurant (outside), 4, acb
+Walking in a busy downtown, 4, bac
+Spending an hour at a playground, 4,cab
+Having dinner at someone else’s house,5,acb
+Attending a backyard barbecue,5,acb
+Going to a beach,5,abc
+Shopping at a mall,5,abc
+Sending kids to school,6,abc
+Working a week in an office building,6,acb
+Swimming in a public pool,6,acb
+Visiting an elderly relative or friend in their home,6,abc
+Going to a hair salon or barbershop,7,bac
+Eating in a restaurant (inside),7,cab
+Attending a wedding or funeral,7,abc
+Traveling by plane,7,bca
+Playing basketball,7,acb
+Playing football,7,acb
+Hugging or shaking hands when greeting a friend,7,cba
+Eating at a buffet,8,acb
+Working out at a gym,8,acb
+Going to an amusement park,8,bca
+Going to a movie theater,8,abc
+Attending a large music concert,9,abc
+Going to a sports stadium,9,abc
+Attending a religious service with 500-plus worshipers,9,abc
+Going to a bar,9,acb
